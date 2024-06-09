@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resque\\infrastructure\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|solutionrelative:infrastructure\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resque\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8AEA0C-EA71-4A1F-9D02-2074FCEC4962}|..\\ResQueDal\\ResQueDal.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resquedal\\infrastructure\\resquedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resque\\controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EFB8CFE-DFFE-462A-823E-BC97B6E0F18E}|ResQueApi.csproj|solutionrelative:controllers\\users\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{318D8E30-2A37-406F-AC00-9DAF504910B0}|..\\ResQueBackEnd\\ResQueBackEnd.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resquebackend\\managers\\userdomain\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E8AEA0C-EA71-4A1F-9D02-2074FCEC4962}|..\\ResQueDal\\ResQueDal.csproj|c:\\education\\cursova2024\\cursova2024\\diplom-2023\\resquedal\\userdomain\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAgwBYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T18:34:35.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Controllers\\Users\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\Users\\UsersController.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Controllers\\Users\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\Users\\UsersController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAYwD0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:56:40.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueBackEnd\\Managers\\UserDomain\\UserManager.cs",
+              "RelativeDocumentMoniker": "..\\ResQueBackEnd\\Managers\\UserDomain\\UserManager.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueBackEnd\\Managers\\UserDomain\\UserManager.cs",
+              "RelativeToolTip": "..\\ResQueBackEnd\\Managers\\UserDomain\\UserManager.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAlwFwAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:36:37.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueDal\\UserDomain\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\ResQueDal\\UserDomain\\UserRepository.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueDal\\UserDomain\\UserRepository.cs",
+              "RelativeToolTip": "..\\ResQueDal\\UserDomain\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:33:04.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ResQueDbContext.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueDal\\Infrastructure\\ResQueDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ResQueDal\\Infrastructure\\ResQueDbContext.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQueDal\\Infrastructure\\ResQueDbContext.cs",
+              "RelativeToolTip": "..\\ResQueDal\\Infrastructure\\ResQueDbContext.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAYwEUAAADJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:51:40.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Infrastructure\\ExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ExtensionMethods.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Infrastructure\\ExtensionMethods.cs",
+              "RelativeToolTip": "Infrastructure\\ExtensionMethods.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAUwCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:04:55.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Education\\Cursova2024\\Cursova2024\\Diplom-2023\\ResQue\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T15:56:43.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
