@@ -6,6 +6,7 @@ networks:
 
 services:
   webapp:
+    image: webapp:latest
     build:
       context: ./Diplom-2023
       dockerfile: Dockerfile
@@ -29,6 +30,7 @@ services:
       - back-tier
   
   angular-app:
+    image: angular-app:latest
     build:
       context: ./ResQueAngularApp
       dockerfile: Dockerfile
